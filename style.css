@@ -1,0 +1,32 @@
+.title {
+    text-align: center;
+    font-family:Brush-Script-Ms, cursive;
+    font-size: 50px;
+    font-weight: bold;
+    color: #d44911;
+    background-color: rgb(223, 186, 118);
+}
+body{
+    background-image:url(kitchen.jpg);
+    background-color: rgb(202, 129, 89);
+    background-position: 40% 30%;
+    background-attachment: fixed;
+    text-align: center;
+    align-content: space-around;
+}
+button .option {
+    font-family: Helvetica, sans-serif;
+    font-size: 28px;
+    background-color: rgb(207, 157, 92);
+    color: rgb(30,125,60);
+    font-weight: bold;
+    border:rgb(207, 157, 92);
+    outline: dotted brown;
+    align-items: center;
+}
+#muffin {
+    color: rgb(140,10,30)
+}
+#macaroni {
+    color: hsl(250,60%,50%)
+}
